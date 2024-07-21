@@ -1,0 +1,61 @@
+.account-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0 auto;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 8px;
+  .account-form {
+    width: 100%;
+  }
+  .account-details {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+  
+  .account-form {
+    .ant-form-item {
+      margin-bottom: 1rem;
+    }
+  
+    .ant-btn {
+      margin-top: 1rem;
+    }
+  
+    .error-message {
+      color: red;
+      font-size: 0.875rem;
+      margin-top: 1rem;
+    }
+  }
+  
+  .ant-avatar {
+    margin-right: 1rem;
+  }
+  
+  .ant-typography {
+    margin: 0;
+  }
+  
+  .ant-form-item-label {
+    margin-bottom: 0.5rem;
+  }
+  
+  .ant-input-password {
+    border-radius: 4px;
+  }
+  
+}
+
+@media only screen and (min-width: 768px) {
+  .account-container {
+    width: 400px;
+  }
+}

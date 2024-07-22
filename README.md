@@ -1,6 +1,6 @@
 # Task Manager App
 
-A Task Manager application built using React, Firebase Firestore for the database, and Firebase for deployment.
+A Task Manager application with drag and drop feature built using React, Firebase Firestore for the database, and Firebase for deployment.
 
 ## Table of Contents
 

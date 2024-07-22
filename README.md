@@ -20,9 +20,9 @@ A Task Manager application built using Node.js, Express, React, Firebase Firesto
 
 ## Demo
 
-Check out the live demo [here](https://task-manager-app-fd207.web.app/sign-in).
+Check out the live demo hosted in Firebase [here](https://task-manager-app-fd207.web.app/sign-in).
 
-![App Demo](output.mp4)
+Please download the Video version of the Output: ![Download Here](output.mp4)
 
 ## Installation
 

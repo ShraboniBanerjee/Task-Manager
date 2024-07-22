@@ -1,6 +1,6 @@
 {
-  "short_name": "Trello Clone",
-  "name": "Trello Clone built using React",
+  "short_name": "Task Manager App",
+  "name": "Task Manager App",
   "icons": [
     {
       "src": "favicon.ico",
